@@ -1,6 +1,6 @@
-import Player from "./Player.js"
+const Player = require('./Player.js')
 
-export default class Game{
+module.exports = class Game{
     constructor(idGame){
         this.id = idGame
         this.status = {
