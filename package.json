@@ -1,0 +1,19 @@
+{
+  "name": "pragmaparse",
+  "version": "1.0.0",
+  "description": "Teste prático do processo seletivo para a vaga de estágio da Pragma, realizando a leitura de um log em .txt, captando alguns dados e criando um JSON",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boolivias/teste-pratico-pragma-parse.git"
+  },
+  "author": "Jean Wylmer Flores Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boolivias/teste-pratico-pragma-parse/issues"
+  },
+  "homepage": "https://github.com/boolivias/teste-pratico-pragma-parse#readme"
+}
